@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xE2E9E446680a1e4a0A8c0D83EfF3cada0bD25A69",
+  "REWARD_ADDRESS": "0x56d215fC1c057f60b9117c56D093193cFe4E8dE3",
+  "REWARD_NAME": "QDRT",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0xe2e9e446680a1e4a0a8c0d83eff3cada0bd25a69",
+  "NETWORK": {
+    "NAME": "BSC Testnet",
+    "SYMBOL": "tBNB",
+    "ID": 97
+  },
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000,
+  "DISPLAY_COST": 0.004,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
